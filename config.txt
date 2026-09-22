@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 VERSION=3
+=======
+VERSION=2
+>>>>>>> feature/config
